@@ -1,0 +1,21 @@
+1.EXPLAIN WHAT THE TERMINAL IS IN YOUR OWN WORDS.
+- The terminal is a text-based interface that allows users to interact directly with their computer using commands. 
+- It can be used to navigate folders, manage files, and run programs without relying on a graphical interface. 
+- While it may seem complicated at first, it is a powerful tool for efficiently managing and controlling a computer.
+
+
+
+
+2. WHAT IS THE MAJOR DIFFERENCE BETWEEN GIT AND GITHUB?
+- Git is a version control system that tracks changes to files and allows users to manage different versions of their projects locally on their computer.  
+- GitHub is an online platform that hosts Git repositories, enabling users to store their projects in the cloud, collaborate with others, and share their work publicly or privately.  
+- Essentially, Git manages versions locally, while GitHub provides a collaborative online environment.
+
+
+
+3. WHAT ARE THE STEPS TO FORK A GITHUB REPOSITORY?
+- First, navigate to the repository you wish to copy on GitHub.  
+- Click the “Fork” button in the top-right corner of the page.  
+- GitHub will create a copy of the repository under your account.  
+- You can then make changes to your forked repository without affecting the original project.  
+- If desired, you can later submit your changes back to the original repository through a pull request.
